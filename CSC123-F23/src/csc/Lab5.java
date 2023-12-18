@@ -9,10 +9,10 @@ public class Lab5 {
 
 	public static void main(String[] args) {
 		
-		String data="Some new informatiojn.... This is some data that I want to write into a file!!";
+		//String data="Some new informatiojn.... This is some data that I want to write into a file!!";
 		String sourceFile="\"C:\\Users\\creep\\Desktop\\TextTest.txt\"";
-		String targetFile="\"C:\\Users\\creep\\Desktop\\TextTest.txt\"";
-		
+		String targetFile="\"C:\\Users\\creep\\Desktop\\TargetTest.txt\"";
+		System.out.println(sourceFile);
 		try {
 			//System.out.println(2/0);
 			String File="Some new informatiojn.... This is some data that I want to write into a file!!";
